@@ -1,11 +1,17 @@
 label,sublabel,description,styles,bgcolor
-一般ごみ,,,img/moyasanai02.svg,#ea3b13
-新聞・雑誌・段ボール,,,img/shigen02.svg,#ff6e59
-びん・缶・金物類,,,img/moyasu02.svg,#2dc7aa
-紙製容器包装・紙パック,,,img/bin02.svg,#77ae1f
-ミックスペーパー,,,img/bin02.svg,#27a047
-ペットボトル,,,img/bin02.svg,#bbe400
-プラスチック製容器包装,,,img/bin02.svg,#08b925
-埋立ごみ,,,img/bin02.svg,#733b96
-枝木・草葉類,,,img/bin02.svg,#ff9f37
+一般ごみ,,,img/ippangomi.svg,#ff9933
+
+缶・びん・金物,,,img/kanbinkanamono.svg,#ff6666
+
+埋立ごみ,,,img/umetate.svg,#339933
+
+プラ容器包装,,,img/prayouki.svg,#99cc99
+
+紙製容器包装・紙パック・ミックスペーパー,,,img/kami.svg,#9966cc
+
+新聞・雑誌・ダンボール,,,img/shinbun.svg,#ff9999
+
+枝木・草葉類,,,img/edaki.svg,#336633
+
+
 
