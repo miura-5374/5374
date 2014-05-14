@@ -19,7 +19,7 @@
 [onTheHammock](http://www.onTheHammock.com/)を使う。
 
 
-#以下、開発の元となった5374 for Kanazawa / Code for Kanazawa のRead meの引用です。
+###以下、開発の元となった5374 for Kanazawa / Code for Kanazawa のRead meの引用です。
 
 ##提供されるゴミ情報について
 金沢市が公開しているオープンデータをもとにしています。
