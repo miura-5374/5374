@@ -18,6 +18,9 @@
 【Code for Miura / onTheHammockについて】「コード」で生活楽しく便利にしたい。Code for Miuraは、三浦市を中心とした三浦半島で求められるニーズを「コード」によって提供していくコミュニティです。Code for Miuraは三浦市でアプリ開発などを行っているonTheHammockによって立ち上げられました。今後も地域社会に貢献できるコードを提供できるように努めていきます。Code for Miuraは、Code for Kanazawa が行っている5374プロダクトに共感し、三浦版を作成しました。
 [onTheHammock](http://www.onTheHammock.com/)を使う。
 
+##三浦市版開発チームについて
+- 桑村 治良(Haruyoshi Kuwamura)　Developer
+- 七島 偉之(Hideyuki Nanashima)　Developer
 
 ###以下、開発の元となった5374 for Kanazawa / Code for Kanazawa のRead meの引用です。
 
